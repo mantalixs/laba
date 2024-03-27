@@ -1,0 +1,6 @@
+D:\tio\proga 1\proga 1\bin\Debug\proga_1.exe
+D:\tio\proga 1\proga 1\bin\Debug\proga_1.pdb
+D:\tio\proga 1\proga 1\obj\Debug\proga 1.csproj.AssemblyReference.cache
+D:\tio\proga 1\proga 1\obj\Debug\proga 1.csproj.CoreCompileInputs.cache
+D:\tio\proga 1\proga 1\obj\Debug\proga_1.exe
+D:\tio\proga 1\proga 1\obj\Debug\proga_1.pdb

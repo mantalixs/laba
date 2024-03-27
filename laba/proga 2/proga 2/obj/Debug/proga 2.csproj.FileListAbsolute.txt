@@ -1,0 +1,6 @@
+D:\tio\proga 2\proga 2\bin\Debug\proga_2.exe
+D:\tio\proga 2\proga 2\bin\Debug\proga_2.pdb
+D:\tio\proga 2\proga 2\obj\Debug\proga 2.csproj.AssemblyReference.cache
+D:\tio\proga 2\proga 2\obj\Debug\proga 2.csproj.CoreCompileInputs.cache
+D:\tio\proga 2\proga 2\obj\Debug\proga_2.exe
+D:\tio\proga 2\proga 2\obj\Debug\proga_2.pdb
